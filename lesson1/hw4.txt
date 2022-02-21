@@ -1,0 +1,7 @@
+sasha@vm-mysql-ubuntu:~$ mysqldump mysql help_keyword > help_keyword.sql
+sasha@vm-mysql-ubuntu:~$ cat help_keyword.sql
+-- MySQL dump 10.13  Distrib 8.0.28, for Linux (x86_64)
+--
+-- Host: localhost    Database: mysql
+-- ------------------------------------------------------
+-- Server version	8.0.28-0ubuntu0.20.04.3
