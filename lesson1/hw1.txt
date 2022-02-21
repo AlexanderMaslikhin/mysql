@@ -1,0 +1,5 @@
+sasha@vm-mysql-ubuntu:~$ cat > .my.cnf
+[client]
+user=root
+password=***********
+sasha@vm-mysql-ubuntu:~$
